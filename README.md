@@ -8,4 +8,4 @@ In order to start the application run:
 Application is still in progress...
 Currently, mechanics of application are based on fake API and hard-coded user information for login functionality
 
-I will be working on making my own API and expand this application
+I will be working on making my own API and expanding this application
